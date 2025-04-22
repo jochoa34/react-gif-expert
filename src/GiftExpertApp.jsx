@@ -3,7 +3,7 @@ import {AddCategory,GifGrid} from './components';
 
 export const GiftExpertApp = () => {
 
-    const [categories, setCategories] = useState(['One Punch']);
+    const [categories, setCategories] = useState(['gatos']);
     const [isReadyForInstall, setIsReadyForInstall] = useState(false);
 
     const onAddCategory = (NewCategory) => {
