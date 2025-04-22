@@ -1,16 +1,21 @@
 {
     "background_color": "#ffffff",
-    "categories":["lifestyle","entertainment"],
+    "categories": [
+        "lifestyle",
+        "entertainment"
+    ],
     "description": "una single app para gif",
     "dir": "ltr",
-    "display_override": ["standalone","fullscreen"],
+    "display_override": [
+        "standalone",
+        "fullscreen"
+    ],
     "display": "standalone",
     "icons": [
         {
             "src": "vite.svg",
-            "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
-            "type": "image/svg+xml",
-            "purpose": "any"
+            "sizes": "512x512",
+            "type": "image/svg+xml"
         }
     ],
     "lang": "es-MX",
