@@ -1,6 +1,6 @@
 {
     "background_color": "#ffffff",
-    "categories":["lifestyle","gif"],
+    "categories":["lifestyle","entertainment"],
     "description": "una single app para gif",
     "dir": "ltr",
     "display_override": ["standalone","fullscreen"],
