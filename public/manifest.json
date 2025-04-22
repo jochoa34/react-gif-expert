@@ -19,6 +19,6 @@
     "prefer_related_applications": false,
     "scope": "/",
     "short_name": "Gif",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "theme_color": "orange"
 }
