@@ -48,7 +48,7 @@ export const GiftExpertApp = () => {
         <> 
             <header className='header'>
             <h1>GifExpertApp</h1>
-            {isReadyForInstall && <button onClick={installPWA} className='button'>descargar</button>}
+            <button onClick={installPWA} className='button'>descargar</button>
             
             </header>
             
