@@ -1,23 +1,23 @@
 {
     "background_color": "#ffffff",
-    "categories":["lifestyle","gif"],
-    "description": "una single app para gif",
+    "categories": ["lifestyle", "music"],
+    "description": "Esta es una PWA de prueba para mi gente en YouTube",
     "dir": "ltr",
-    "display_override": ["standalone","fullscreen"],
+    "display_override": ["standalone", "fullscreen"],
     "display": "standalone",
     "icons": [
         {
             "src": "vite.svg",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/svg"
         }
     ],
     "lang": "es-MX",
-    "name": "Gif App",
+    "name": "PWA Lasfito test",
     "orientation": "portrait",
-    "prefer_related_applications": false,
+    "prefer_related_application": false,
     "scope": "/",
-    "short_name": "Gif",
-    "start_url": "/index.html",
+    "short_name": "PWA Lasfi",
+    "start_url": "/",
     "theme_color": "orange"
-}
+  }
